@@ -46,14 +46,5 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 
-##OUTPUT:
-###CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUT](./clientside1.png)
-
-### SERVER SIDE OUTPUT:
-![SERVERSIDEOUTPUT](./serverside1.png)
-![SERVERSIDEOUTPUT](./serverside2.png)
 
 
-##RESULT:
-Thus, a simple webserver is created to display top five programming languages.
