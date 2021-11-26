@@ -66,11 +66,11 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ### CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUT](./images/clientside1.png)
+![CLIENTSIDEOUTPUT](./Screenshots/clientside1.png)
 
 ### SERVER SIDE OUTPUT:
-![SERVERSIDEOUTPUT](./images/serverside1.png)
-![SERVERSIDEOUTPUT](./images/serverside2.png)
+![SERVERSIDEOUTPUT](./Screenshots/serverside1.png)
+![SERVERSIDEOUTPUT](./Screenshots/serverside2.png)
 
 ### RESULT 
 Thus, a simple webserver is created to display top five programming languages.
